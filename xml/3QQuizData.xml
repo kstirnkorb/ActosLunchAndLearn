@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <category id="2" title="CORE DEFECTS">
+    <question id="2" qid="5">
+      <copy><![CDATA[Insulin resistance can lead to beta-cell failure.]]></copy>
+      <answer correct="1"><![CDATA[True]]></answer>
+      <answer correct="0"><![CDATA[False]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q5_image_01.jpg</graphic>
+      <correctanswer><![CDATA[You're right! Increased insulin resistance can lead to beta-cell dysfunction and affect the body's ability to maintain healthy glucose levels.<FONT FACE="GG Superscript">1</FONT> In fact, insulin resistance and loss of beta-cell function may begin as early as 10−12 years prior to diagnosis.<FONT FACE="GG Superscript">2-4</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Not quite. Increased insulin resistance can lead to beta-cell dysfunction and affect the body's ability to maintain healthy glucose levels.<FONT FACE="GG Superscript">1</FONT> In fact, insulin resistance and loss of beta-cell function may begin as early as 10−12 years prior to diagnosis.<FONT FACE="GG Superscript">2-4</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc. <b>2.</b> Miyazaki Y, Matsuda M, DeFronzo RA. Dose-response effect of pioglitazone on insulin sensitivity and insulin secretion in type 2 diabetes. <i>Diabetes Care.</i> 2002;25:517-523. <b>3.</b> Kendall DM. Thiazolidinediones: the case for early use. <i>Diabetes Care.</i> 2006;29:154-157. <b>4.</b> Parulkar AA, Pendergrass ML, Granda-Ayala R, Lee TR, Fonseca VA. Nonhypoglycemic effects of thiazolidinediones. <i>Ann Intern Med.</i> 2001;134:61-71. <b>5.</b> Del Prato S, Marchetti P. Targeting insulin resistance and ß-cell dysfunction: the role of thiazolidinediones. <i>Diabetes Technol Ther.</i> 2004;6:719-731.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">1</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="3" qid="6">
+      <copy><![CDATA[Beta-cell dysfunction is the only defect of type 2 diabetes.]]></copy>
+      <answer correct="0"><![CDATA[True]]></answer>
+      <answer correct="1"><![CDATA[False]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[Myriad factors contribute to the pathogenesis of type 2 diabetes; chief among them are beta-cell dysfunction, increased hepatic glucose output, and increased insulin resistance.<FONT FACE="GG Superscript">1</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Actually, that's only partly correct. Myriad factors contribute to the pathogenesis of type 2 diabetes; chief among them are beta-cell dysfunction, increased hepatic glucose output, and increased insulin resistance.<FONT FACE="GG Superscript">1</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Schinner S, Scherbaum WA, Bornstein SR, Barthel A. Molecular mechanisms of insulin resistance. <i>Diabet Med.</i> 2005;22:674-682. <b>2.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">2</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="4" qid="7">
+      <copy><![CDATA[Insulin resistance is often associated with abnormalities that impact which of the following?]]></copy>
+      <answer correct="0"><![CDATA[Lipid metabolism]]></answer>
+      <answer correct="0"><![CDATA[Protein metabolism]]></answer>
+      <answer correct="0"><![CDATA[Gene expression]]></answer>
+      <answer correct="1"><![CDATA[All of the above]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[You're right! Insulin resistance is often associated with lipid and protein abnormalities, as well as cardiovascular function and gene expression abnormalities.<FONT FACE="GG Superscript">1</FONT> Insulin resistance in the periphery can lead to insufficient beta-cell function and elevated glucose levels.<FONT FACE="GG Superscript">2</FONT> Left untreated, insulin resistance continues, and other complications may develop over time.<FONT FACE="GG Superscript">3</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Actually, insulin resistance is often associated with lipid and protein abnormalities, as well as cardiovascular function and gene expression abnormalities.<FONT FACE="GG Superscript">1</FONT> Insulin resistance in the periphery can lead to insufficient beta-cell function and elevated glucose levels.<FONT FACE="GG Superscript">2</FONT> Left untreated, insulin resistance continues, and other complications may develop over time.<FONT FACE="GG Superscript">3</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references">
+          <![CDATA[<b>1.</b> American Diabetes Association. Consensus development conference on insulin resistance. <i>Diabetes Care.</i>1998;21:310-314. <b>2.</b> DeFronzo RA. The triumvirate: ß-cell, muscle, liver: a collusion responsible for NIDDM [Lilly Lecture 1987]. <i>Diabetes.</i> 1988;37:667-687. <b>3.</b> Nesto RW. The relation of insulin resistance syndromes to risk of cardiovascular disease. <i>Rev Cardiovasc Med.</i> 2003;4(suppl 6): S11-S18. <b>4.</b> Buchanan TA, Xiang AH, Peters RK, et al. Preservation of pancreatic ß-cell function and prevention of type 2 diabetes by pharmacological treatment of insulin resistance in high-risk Hispanic women. <i>Diabetes.</i> 2002;51:2796-2803. <b>5.</b> Hsueh WA, Law RE. Cardiovascular risk continuum: implications of insulin resistance and diabetes. <i>Am J Med.</i> 1998;105:4S-14S. <b>6.</b> National Diabetes Information Clearinghouse (NDIC) website. Diabetes, heart disease, and stroke. Available at: http://www.diabetes.niddk.nih.gov/dm/pubs/stroke. Accessed June 2, 2008. <b>7.</b> American Diabetes Association website. Diabetes: heart disease and stroke. Available at: http://www.diabetes.org/diabetes-heart-disease-stroke.jsp. Accessed June 2, 2008. <b>8.</b> Saltiel AR, Olefsky JM. Thiazolidinediones in the treatment of insulin resistance and type II diabetes. <i>Diabetes.</i> 1996;45:1661-1669. <b>9.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]>
+        </notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">9</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="5" qid="8">
+      <copy><![CDATA[By the time patients are diagnosed with type 2 diabetes, beta-cell function has typically declined by an average of 50%.]]></copy>
+      <answer correct="1"><![CDATA[True]]></answer>
+      <answer correct="0"><![CDATA[False]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[Yes! Typically, beta-cell function declines by an average of 50% by the time patients are diagnosed with type 2 diabetes.<FONT FACE="GG Superscript">1,2</FONT> Despite treatment with sulfonylurea or metformin monotherapy, patients continue to experience a decline in beta-cell function over time.<FONT FACE="GG Superscript">1</FONT> Declining beta-cell function is associated with loss of glycemic control.<FONT FACE="GG Superscript">1</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[That's not correct. Typically, beta-cell function declines by an average of 50% by the time patients are diagnosed with type 2 diabetes.<FONT FACE="GG Superscript">1,2</FONT> Despite treatment with sulfonylurea or metformin monotherapy, patients continue to experience a decline in beta-cell function over time.<FONT FACE="GG Superscript">1</FONT> Declining beta-cell function is associated with loss of glycemic control.<FONT FACE="GG Superscript">1</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> UK Prospective Diabetes Study Group. UK Prospective Diabetes Study 16: overview of 6 years' therapy of type II diabetes: a progressive disease. <i>Diabetes.</i> 1995;44:1249-1258. <b>2.</b> Lebovitz HE. Insulin secretagogues: old and new. <i>Diabetes Rev.</i> 1999;7:139-153. <b>3.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">3</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+  </category>
+  <category id="1" title="TARGETING DEFECTS">
+    <question id="1" qid="4">
+      <copy><![CDATA[What percentage of patients with type 2 diabetes have insulin resistance?]]></copy>
+      <answer correct="0"><![CDATA[100%]]></answer>
+      <answer correct="1"><![CDATA[92%]]></answer>
+      <answer correct="0"><![CDATA[82%]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[That's right! 92% of patients with type 2 diabetes have insulin resistance.<FONT FACE="GG Superscript">1</FONT> Insulin resistance and loss of beta-cell function may begin as early as 10−12 years before diagnosis.<FONT FACE="GG Superscript">2-4</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Close, but not quite.  92% of patients with type 2 diabetes have insulin resistance.<FONT FACE="GG Superscript">1</FONT> Insulin resistance and loss of beta-cell function may begin as early as 10−12 years before diagnosis.<FONT FACE="GG Superscript">2-4</FONT> 92% of patients with type 2 diabetes have insulin resistance.<FONT FACE="GG Superscript">1</FONT> Insulin resistance and loss of beta-cell function may begin as early as 10−12 years before diagnosis.<FONT FACE="GG Superscript">2-4</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Bailey CJ. Insulin resistance and antidiabetic drugs. <i>Biochem Pharmacol.</i> 1999;58:1511-1520. <b>2.</b> Saltiel AR, Olefsky JM. Thiazolidinediones in the treatment of insulin resistance and type II diabetes. <i>Diabetes.</i> 1996;45:1661-1669. <b>3.</b> Harris MI, Klein R, Welborn TA, Knuiman MW. Onset of NIDDM occurs at least 4−7 yr before clinical diagnosis. <i>Diabetes Care.</i> 1992;15:815-819. <b>4.</b> Holman RR. Assessing the potential for α-glucosidase inhibitors in prediabetic states. <i>Diabetes Res Clin Pract.</i> 1998;40(suppl):S21-S25. <b>5.</b> Bailey CJ. Treating insulin resistance in type 2 diabetes with metformin and thiazolidinediones. <i>Diabetes Obes Metab.</i> 2005;7:675-691. <b>6.</b> American Heart Association website. Insulin resistance. Available at: http://www.americanheart.org/presenter.jhtml?identifier=3044761. Accessed June 2, 2008. <b>7.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">7</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>  
+    <question id="1" qid="1">
+      <copy><![CDATA[In addition to reducing A1C levels, what other effects has ACTOS demonstrated in a 26-week clinical trial?]]></copy>
+      <answer correct="0"><![CDATA[Reduction in insulin resistance]]></answer>
+      <answer correct="0"><![CDATA[Improvement in beta-cell function (HOMA)]]></answer>
+      <answer correct="1"><![CDATA[Both a & b]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q1_image_01.jpg</graphic>
+      <correctanswer><![CDATA[That's right! ACTOS reduced insulin resistance by 27% and improved beta-cell function by 40%.*<FONT FACE="GG Superscript">1-5</FONT> ACTOS targets multiple core defects of type 2 diabetes and improves glycemic control by an average of 2.6 percentage points in drug-naïve patients.*<FONT FACE="GG Superscript">6</FONT>]]></correctanswer>
+      <incorrectanswer>
+        <![CDATA[ACTOS does more than that. ACTOS reduced insulin resistance by 27% and improved beta-cell function by 40%.*<FONT FACE="GG Superscript">1-5</FONT> ACTOS targets multiple core defects of type 2 diabetes and improves glycemic control by an average of 2.6 percentage points in drug-naïve patients.*<FONT FACE="GG Superscript">6</FONT>]]>
+      </incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[*Results from a 26-week, double-blind, randomized, multicenter, placebo-controlled study. HOMA is based on the following calculations: HOMA−IR = (fasting insulin x fasting glucose)/22.5; HOMA−BCF = (20 x fasting insulin)/(fasting glucose−3.5). Values indicate the difference between the changes from baseline of ACTOS and placebo. <br><br>A1C data: drug-naïve patients not adequately controlled by diet and exercise alone and receiving ACTOS 45 mg QD, n=21, baseline A1C: 10.0%. <i>P</i>≤0.05.]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Data on file, Takeda Pharmaceuticals North America, Inc. <b>2.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc. <b>3.</b> Miyazaki Y, Matsuda M, DeFronzo RA. Dose-response effect of pioglitazone on insulin sensitivity and insulin secretion in type 2 diabetes. <i>Diabetes Care.</i> 2002;25:517-523. <b>4.</b> Miyazaki Y, Mahankali A, Matsuda M, et al. Improved glycemic control and enhanced insulin sensitivity in type 2 diabetic subjects treated with pioglitazone. <i>Diabetes Care.</i> 2001;24:710-719. <b>5.</b> Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC. Homeostasis model assessment: insulin resistance and ß-cell function from fasting plasma glucose and insulin concentrations in man. <i>Diabetologia.</i> 1985;28:412-419. <b>6.</b> Aronoff S, Rosenblatt S, Braithwaite S, Egan JW, Mathisen AL, Schneider RL, and the Pioglitazone 001 Study Group. Pioglitazone hydrochloride monotherapy improves glycemic control in the treatment of patients with type 2 diabetes: a 6-month randomized placebo-controlled dose-response study. <i>Diabetes Care.</i> 2000;23:1605-1611.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">2</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="2" qid="2">
+      <copy><![CDATA[ACTOS targets which defects of type 2 diabetes?]]></copy>
+      <answer correct="0"><![CDATA[Insulin resistance]]></answer>
+      <answer correct="0"><![CDATA[Hepatic glucose output]]></answer>
+      <answer correct="0"><![CDATA[Beta-cell dysfunction]]></answer>
+      <answer correct="1"><![CDATA[All of the above]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q2_image_01.jpg</graphic>
+      <correctanswer><![CDATA[That's right! ACTOS targets insulin resistance, hepatic glucose output, and beta-cell dysfunction.<FONT FACE="GG Superscript">1,2</FONT> Specifically, ACTOS sustains glycemic control by decreasing hepatic glucose output, decreasing insulin resistance, and improving beta-cell function. Beta-cell function is measured according to HOMA (Homeostasis Model Assessment).<FONT FACE="GG Superscript">1,3-5</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[ACTOS does more than that. ACTOS targets insulin resistance, hepatic glucose output, and beta-cell dysfunction.<FONT FACE="GG Superscript">1,2</FONT> Specifically, ACTOS sustains glycemic control by decreasing hepatic glucose output, decreasing insulin resistance, and improving beta-cell function. Beta-cell function is measured according to HOMA (Homeostasis Model Assessment).<FONT FACE="GG Superscript">1,3-5</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references">
+          <![CDATA[<b>1.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc. <b>2.</b> Miyazaki Y, Matsuda M, DeFronzo RA. Dose-response effect of pioglitazone on insulin sensitivity and insulin secretion in type 2 diabetes. <i>Diabetes Care.</i> 2002;25:517-523. <b>3.</b> Kendall DM. Thiazolidinediones: the case for early use. <i>Diabetes Care.</i> 2006;29:154-157. <b>4.</b> Parulkar AA, Pendergrass ML, Granda-Ayala R, Lee TR, Fonseca VA. Nonhypoglycemic effects of thiazolidinediones. <i>Ann Intern Med.</i> 2001;134:61-71. <b>5.</b> Del Prato S, Marchetti P. Targeting insulin resistance and ß-cell dysfunction: the role of thiazolidinediones. <i>Diabetes Technol Ther.</i> 2004;6:719-731.
+]]>
+        </notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">1</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="3" qid="3">
+      <copy><![CDATA[What benefits can be achieved by targeting insulin resistance with ACTOS?]]></copy>
+      <answer correct="0"><![CDATA[Improvement in hyperglycemia]]></answer>
+      <answer correct="0"><![CDATA[Decrease in circulating insulin levels]]></answer>
+      <answer correct="0"><![CDATA[Improvement in beta-cell function (HOMA)]]></answer>
+      <answer correct="0"><![CDATA[Improvement in diabetic dyslipidemia]]></answer>
+      <answer correct="1"><![CDATA[All of the above]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer>
+        <![CDATA[You know the benefits of ACTOS. Targeting insulin resistance with ACTOS can have many benefits: ACTOS can have an effect on several cardiovascular risk markers, such as hyperglycemia, hyperinsulinemia, and diabetic dyslipidemia.<FONT FACE="GG Superscript">1</FONT><br><br>ACTOS can also decrease circulating insulin levels and improve beta-cell function (HOMA).<FONT FACE="GG Superscript">2-4</FONT><br><br>No consistent mean changes in LDL-C or Total-C levels have occurred with ACTOS.<FONT FACE="GG Superscript">4</FONT>]]>
+      </correctanswer>
+      <incorrectanswer><![CDATA[Actually…Targeting insulin resistance with ACTOS can have many benefits: ACTOS can have an effect on several cardiovascular risk markers, such as hyperglycemia, hyperinsulinemia, and diabetic dyslipidemia.<FONT FACE="GG Superscript">1</FONT><br><br>ACTOS can also decrease circulating insulin levels and improve beta-cell function (HOMA).<FONT FACE="GG Superscript">2-4</FONT><br><br>No consistent mean changes in LDL-C or Total-C levels have occurred with ACTOS.<FONT FACE="GG Superscript">4</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Martens FC, Visseren FJ, Lemay J, de Koning EP, Rabelink TJ. Metabolic and additional vascular effects of thiazolidinediones. <i>Drugs.</i> 2002;62:1463-1480. <b>2.</b> Wyne KL, Bell DH, Braunstein S, Drexler AJ, Miller JL, Nuckolls JG. Trends in management of type 2 diabetes: role of thiazolidinediones. <i>Endocrinologist.</i> 2003;13(suppl 1):S1-S21. <b>3.</b> Reasner CA. Where thiazolidinediones will fit. <i>Diabetes Metab Res Rev.</i> 2002;18(suppl 2):S30-S35. <b>4.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[While ACTOS may confer some lipid benefits, ACTOS is not indicated to treat lipid disorders and should not be used as a substitute for lipid-lowering therapy.<br><br>The effects of these lipid changes on morbidity and mortality have not been determined.<br><br>Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">4</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="1" qid="17">
+      <copy><![CDATA[How much did mean triglyceride levels drop in patients with type 2 diabetes after 2 years of ACTOS <i>QD</i> monotherapy?]]></copy>
+      <answer correct="0"><![CDATA[11%]]></answer>
+      <answer correct="1"><![CDATA[21%]]></answer>
+      <answer correct="0"><![CDATA[31%]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q17_image_01.jpg</graphic>
+      <correctanswer><![CDATA[You're right! In a 2-year clinical trial, patients taking ACTOS 30 or 45 mg QD monotherapy had a 21% mean reduction in their triglyceride levels from baseline.* Mean baseline triglyceride was 211.0 mg/dL.<FONT FACE="GG Superscript">1</FONT> The ADA recommends triglycerides measure <150 mg/dL.<FONT FACE="GG Superscript">2</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Not quite. In a 2-year clinical trial, patients taking ACTOS 30 or 45 mg QD monotherapy had a 21% mean reduction in their triglyceride levels from baseline.* Mean baseline triglyceride was 211.0 mg/dL.<FONT FACE="GG Superscript">1</FONT> The ADA recommends triglycerides measure <150 mg/dL.<FONT FACE="GG Superscript">2</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[*Results from a 104-week, double-blind, randomized, double-dummy, multicenter, parallel-group study using ACTOS 30 or 45 mg QD monotherapy. Completer analysis, n=147. Mean change at endpoint statistically significant vs baseline at <i>P</i><0.0001. Baseline LDL-C: 126.0 mg/dL; total cholesterol: 207.6 mg/dL.]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Data on file, Takeda Pharmaceuticals North America, Inc. <b>2.</b> Grant RW, Meigs JB. Prevalence and treatment of low HDL cholesterol among primary care patients with type 2 diabetes: an unmet challenge for cardiovascular risk reduction. <i>Diabetes Care.</i> 2007;30:479-484. <b>3.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[While ACTOS may confer some lipid benefits, ACTOS is not indicated to treat lipid disorders and should not be used as a substitute for lipid-lowering therapy.<br><br>The effects of these lipid changes on morbidity and mortality have not been determined.<br><br>Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">3</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>	
+  </category>
+  <category id="9" title="Tie-Breaker">
+    <question id="1" qid="9">
+      <copy><![CDATA[What is/are the target A1C goal(s) for patients with type 2 diabetes, according to the American Diabetes Association (ADA)?]]></copy>
+      <answer correct="0"><![CDATA[&lt;6.0%]]></answer>
+      <answer correct="0"><![CDATA[≤6.5%]]></answer>
+      <answer correct="0"><![CDATA[&lt;7.0%]]></answer>
+      <answer correct="1"><![CDATA[Both a & c]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q9_image_01.jpg</graphic>
+      <correctanswer><![CDATA[You know your ADA guidelines! The ADA recommends that all patients with type 2 diabetes achieve an A1C goal of &lt;7.0%. A more stringent goal of <6% is recommended for selected individual patients without increasing their risk of hypoglycemia.<FONT FACE="GG Superscript">1</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Actually, the ADA recommends that all patients with type 2 diabetes achieve an A1C goal of &lt;7.0%. A more stringent goal of <6% is recommended for selected individual patients without increasing their risk of hypoglycemia.<FONT FACE="GG Superscript">1</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> American Diabetes Association. Standards of medical care in diabetes−2008. <i>Diabetes Care.</i> 2008;31(suppl 1):S12-S54. <b>2.</b> Jellinger PS, Davidson JA, Blonde L, et al. Road map to achieve glycemic goals: naïve to therapy (type 2). American Association of Clinical Endocrinologists website. Available at: http://www.aace.com/meetings/consensus/odimplementation/roadmap.pdf. Accessed June 2, 2008. <b>3.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">3</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="8" qid="16">
+      <copy><![CDATA[According to the American Association of Clinical Endocrinologists (AACE) recommendations, at what A1C level should combination therapy be initiated?]]></copy>
+      <answer correct="0"><![CDATA[6%−7%]]></answer>
+      <answer correct="0"><![CDATA[7%−8%]]></answer>
+      <answer correct="0"><![CDATA[8%−10%]]></answer>
+      <answer correct="1"><![CDATA[Both b and c]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic>q16_image_01.jpg</graphic>
+      <correctanswer><![CDATA[Yes! The AACE recommends that combination therapy first be initiated when patients' A1C levels are between 7%−8%. Combination therapy should also be initiated and intensified as A1C levels rise to 8% and above.<FONT FACE="GG Superscript">1</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Actually, the AACE recommends that combination therapy first be initiated when patients' A1C levels are between 7%−8%. Combination therapy should also be initiated and intensified as A1C levels rise to 8% and above.<FONT FACE="GG Superscript">1</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> AACE Diabetes Mellitus Clinical Practice Guidelines Task Force. American Association of Clinical Endocrinologists medical guidelines for clinical practice for the management of diabetes mellitus. <i>Endocr Pract.</i> 2007;13(suppl 1):3-68. <b>2.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">2</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="3" qid="19">
+      <copy><![CDATA[ACTOS has not been shown to improve the Total-C/HDL-C ratio.]]></copy>
+      <answer correct="0"><![CDATA[True]]></answer>
+      <answer correct="1"><![CDATA[False]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[Yes! ACTOS has been shown to improve the Total-C/HDL-C ratio.<FONT FACE="GG Superscript">1</FONT> ACTOS has shown no consistent mean changes in LDL-C or Total-C levels.<FONT FACE="GG Superscript">2</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[In fact, ACTOS has been shown to improve the Total-C/HDL-C ratio.<FONT FACE="GG Superscript">1</FONT> ACTOS has shown no consistent mean changes in LDL-C or Total-C levels.<FONT FACE="GG Superscript">2</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Data on file, Takeda Pharmaceuticals North America, Inc. <b>2.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc.]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[While ACTOS may confer some lipid benefits, ACTOS is not indicated to treat lipid disorders and should not be used as a substitute for lipid-lowering therapy.<br><br>The effects of these lipid changes on morbidity and mortality have not been determined.<br><br>Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">2</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>
+    <question id="4" qid="27">
+      <copy><![CDATA[ACTOS has been prescribed to approximately how many patients?]]></copy>
+      <answer correct="0"><![CDATA[12 million]]></answer>
+	  <answer correct="0"><![CDATA[10 million]]></answer>
+      <answer correct="1"><![CDATA[8 million]]></answer>
+	  <drug><![CDATA[ACTOS]]></drug>
+      <graphic></graphic>
+      <correctanswer><![CDATA[You're right! Since entering the marketplace in 1999, ACTOS has been prescribed to more than 8 million patients.<FONT FACE="GG Superscript">1</FONT>]]></correctanswer>
+      <incorrectanswer><![CDATA[Not quite. Since entering the marketplace in 1999, ACTOS has been prescribed to more than 8 million patients.<FONT FACE="GG Superscript">1</FONT>]]></incorrectanswer>
+      <annotations>
+        <notation id="1" title="footnote"><![CDATA[]]></notation>
+        <notation id="2" title="references"><![CDATA[<b>1.</b> Data on file, Takeda Pharmaceuticals North America, Inc. <b>2.</b> ACTOS package insert, Takeda Pharmaceuticals America, Inc. ]]></notation>
+        <notation id="3" title="fairbalance"><![CDATA[Management of type 2 diabetes should also include nutritional counseling, weight reduction as needed, and exercise.<br><br>Please see Important Safety Information, <b>including boxed warnings</b>, by clicking on the Safety button in the Menu.]]></notation>
+        <notation id="4" title="indication"><![CDATA[ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes. ACTOS is approved for use as monotherapy and in combination with sulfonylureas, metformin, or insulin when diet and exercise plus the single agent do not result in adequate glycemic control.<FONT FACE="GG Superscript">2</FONT>]]></notation>
+      </annotations>
+      <complexityfactor>1</complexityfactor>
+    </question>	
+  </category>
+</quiz>
